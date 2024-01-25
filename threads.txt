@@ -1,1 +1,11 @@
-
+rivit-dia:derailleur:3.63mm
+rivit-dia:single:3.64mm
+roller-dia:7.8mm
+bb:eng:left:1.37x24TPI-RH
+bb:eng:right:1.37x24TPI-LH
+bb:fr:left:35x1-RH
+bb:fr:right:35x1-RH
+bb:it:left:36x24TPI-RH
+bb:it:right:36x24TPI-RH
+bb:sw:left:35x1-RH
+bb:sw:right:35x1-LH
