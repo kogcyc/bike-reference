@@ -1,4 +1,4 @@
-### Bottom Bracket Threading Table
+### Bottom Bracket Threads
 
 | Standard | Side  | Thread         | Direction |
 |----------|-------|----------------|-----------|
