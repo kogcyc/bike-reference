@@ -1,4 +1,4 @@
-### 🚲 Bottom Bracket Threading Table
+### Bottom Bracket Threading Table
 
 | Standard | Side  | Thread         | Direction |
 |----------|-------|----------------|-----------|
